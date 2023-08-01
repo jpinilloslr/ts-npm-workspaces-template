@@ -4,6 +4,7 @@
   "description": "",
   "main": "packages/app/dist/index.js",
   "scripts": {
+    "format": "prettier . -w",
     "lint": "eslint packages --ext .ts",
     "prebuild": "npm run lint",
     "build": "tsc --build ./tsconfig.json",

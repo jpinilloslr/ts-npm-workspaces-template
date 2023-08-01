@@ -24,6 +24,7 @@ npm install
 ```
 
 ## Scripts
+
 The following npm scripts are available for your convenience:
 
 - **build**: Compiles the project.
@@ -36,4 +37,3 @@ Feel free to modify this template to start building your Node.js application wit
 ## Reference Article
 
 This project is based on the setup described in this article: [NPM Workspaces with TypeScript](https://gist.github.com/jpinilloslr/b2d88e39c49ce56161764d8e06e82c49)
-
